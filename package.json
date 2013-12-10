@@ -26,7 +26,7 @@
   "homepage": "https://github.com/mccormicka/modulename",
   "readmeFilename": "README.md",
   "dependencies": {
-    "nodelogger": "https://github.com/mccormicka/nodelogger/archive/master.tar.gz"
+    "bunyan": "~0.22.1"
   },
   "devDependencies": {
     "grunt": "0.4.1",
